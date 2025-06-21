@@ -1,7 +1,7 @@
 # Extracting-and-Visualizing-Stock-Data
-# 📊 Analyzing Historical Stock/Revenue Data and Building a Dashboard
+# Analyzing Historical Stock/Revenue Data and Building a Dashboard
 
-## 📝 Project Overview
+## Project Overview
 This project is part of the Coursera course **"Python Project for Data Science"** offered by IBM. The goal is to analyze and visualize the historical stock prices and quarterly revenue data of two public companies — **Tesla (TSLA)** and **GameStop (GME)** — using Python, web scraping, and data visualization libraries.
 
 The final deliverable includes code to:
@@ -12,7 +12,7 @@ The final deliverable includes code to:
 
 ---
 
-## 🔧 Tools & Libraries Used
+## Tools & Libraries Used
 - `yfinance` – to extract historical stock price data
 - `requests` – to fetch HTML pages for revenue data
 - `BeautifulSoup` – to parse and extract data from HTML
@@ -21,5 +21,5 @@ The final deliverable includes code to:
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
